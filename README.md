@@ -29,6 +29,7 @@ The dataset is not big, and it contains the following features (typical stats of
 24. Own Goals
 25. Own Goal time
 
+## Target/Goal of the project
 The Target is the Man of the Match award.
 
 Since the given dataset is not large, this project is created to practise feature importance/data visualization tools I learned recently.
