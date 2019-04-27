@@ -1,6 +1,7 @@
 # Man-of-the-Match-FIFA-2018
 Recently I found this dataset on Kaggle and I am an avid football fan so I decide to create a simple project which predicts the man of the match award.
 
+## Feature description
 The dataset is not big, and it contains the following features (typical stats of a football match):
 1. Date
 2. Team
