@@ -34,4 +34,4 @@ The Target is the Man of the Match award.
 
 Since the given dataset is not large, this project is created to practise feature importance/data visualization tools I learned recently.
 
-## Feature importance
+## Feature importance using SHAP values
