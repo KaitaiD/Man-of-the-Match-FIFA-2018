@@ -35,5 +35,7 @@ The Target is the Man of the Match award.
 Since the given dataset is not large, this project is created to practise feature importance/data visualization tools I learned recently.
 
 ## Feature importance using SHAP values
+
 1. SHAP summary plot
+
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap1.JPG)
