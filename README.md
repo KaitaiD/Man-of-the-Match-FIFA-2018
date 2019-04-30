@@ -36,4 +36,4 @@ Since the given dataset is not large, this project is created to practise featur
 
 ## Feature importance using SHAP values
 1. SHAP summary plot
-![alt text](https://github.com/KaitaiD/FEM-beam-model-dynamic-analysis/blob/master/shap1.jpg)
+![alt text](https://github.com/KaitaiD/FEM-beam-model-dynamic-analysis/blob/master/shap1.JPG)
