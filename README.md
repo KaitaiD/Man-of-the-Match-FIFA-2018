@@ -35,5 +35,5 @@ The Target is the Man of the Match award.
 Since the given dataset is not large, this project is created to practise feature importance/data visualization tools I learned recently.
 
 ## Feature importance using SHAP values
-1. 
-![alt text](https://github.com/KaitaiD/FEM-beam-model-dynamic-analysis/blob/master/f1.jpg)
+1. SHAP summary plot
+![alt text](https://github.com/KaitaiD/FEM-beam-model-dynamic-analysis/blob/master/shap1.jpg)
