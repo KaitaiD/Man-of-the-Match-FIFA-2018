@@ -39,3 +39,7 @@ Since the given dataset is not large, this project is created to practise featur
 __1. SHAP summary plot__
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap1.JPG)
+
+__2. SHAP importance plot__
+
+![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap2.JPG)
