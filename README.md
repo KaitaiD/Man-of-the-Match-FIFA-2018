@@ -3,11 +3,11 @@ Recently I found this dataset on Kaggle and I am an avid football fan so I decid
 
 ## Feature description
 The dataset is not big, and it contains the following features (typical stats of a football match):
-1. Date
-2. Team
-3. Opponent
-4. Goal Scored
-5. Ball possesion %
+_1. Date_
+_2. Team_
+_3. Opponent_
+_4. Goal Scored_
+_5. Ball possesion %_
 6. Attempts
 7. On-Target
 8. Off-Target
