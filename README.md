@@ -36,14 +36,14 @@ Since the given dataset is not large, this project is created to practise featur
 
 ## Feature importance using SHAP values
 
-1. SHAP summary plot
+__1. SHAP summary plot__
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap1.JPG)
 
-__2. SHAP importance plot__
+2. SHAP importance plot
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap2.JPG)
 
-__3. SHAP dependence contribution plot__
+3. SHAP dependence contribution plot
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap3.JPG)
