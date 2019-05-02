@@ -40,10 +40,10 @@ __1. SHAP summary plot__
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap1.JPG)
 
-2. SHAP importance plot
+__2. SHAP importance plot__
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap2.JPG)
 
-3. SHAP dependence contribution plot
+__3. SHAP dependence contribution plot__
 
 ![alt text](https://github.com/KaitaiD/Man-of-the-Match-FIFA-2018/blob/master/shap3.JPG)
