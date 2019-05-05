@@ -34,16 +34,25 @@ _14. Passes_
 
 _15. Distance Covered (Km)_
 
-16. Foul Committed
-17. Yellow Card
-18. Yellow & Red Card
-19. Red
-20. 1st Goal
-21. Round
-22. PSO
-23. Goals in PSO
-24. Own Goals
-25. Own Goal time
+_16. Foul Committed_
+
+_17. Yellow Card_
+
+_18. Yellow & Red Card_
+
+_19. Red_
+
+_20. 1st Goal_
+
+_21. Round_
+
+_22. PSO_
+
+_23. Goals in PSO_
+
+_24. Own Goals_
+
+_25. Own Goal time_
 
 ## Target/Goal of the project
 The Target is the Man of the Match award.
