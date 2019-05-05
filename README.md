@@ -20,9 +20,11 @@ _7. On-Target_
 
 _8. Off-Target_
 
-9. Blocked
-10. Corners
-11. Offside
+_9. Blocked_
+
+_10. Corners_
+
+_11. Offside_
 12. Pass Accuracy %
 13. Saves
 14. Passes
