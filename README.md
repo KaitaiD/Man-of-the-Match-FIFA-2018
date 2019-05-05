@@ -30,8 +30,10 @@ _12. Pass Accuracy %_
 
 _13. Saves_
 
-14. Passes
-15. Distance Covered (Km)
+_14. Passes_
+
+_15. Distance Covered (Km)_
+
 16. Foul Committed
 17. Yellow Card
 18. Yellow & Red Card
