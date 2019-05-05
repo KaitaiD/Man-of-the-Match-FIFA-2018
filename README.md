@@ -18,7 +18,8 @@ _6. Attempts__
 
 _7. On-Target_
 
-8. Off-Target
+_8. Off-Target_
+
 9. Blocked
 10. Corners
 11. Offside
